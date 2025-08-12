@@ -77,6 +77,7 @@ Tenho grande interesse em atuar na área de **Ciência de Dados**, aplicando an�
 <br/>
 <br/>
 
+### 📊 Estatísticas
 <p>
   <img 
     align="left" 
