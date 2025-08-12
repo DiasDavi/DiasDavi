@@ -1,44 +1,78 @@
-# Olá, eu sou o Davi Dias
+# Davi Dias
 
-Sou Engenheiro de Computação formado pela **Facens** e atualmente estou cursando pós-graduação em **Inteligência Artificial Aplicada e Machine Learning**.
+**`Engenheiro de Computação | Cientista de Dados em formação`**
 
-## 🚀 Sobre Mim
-Tenho grande interesse em atuar na área de **Ciência de Dados**, onde posso aplicar minhas habilidades em análise, manipulação e modelagem de dados para gerar insights estratégicos que apoiem a tomada de decisão.
+Sou Engenheiro de Computação formado pela **Facens** e atualmente curso pós-graduação em **Inteligência Artificial Aplicada e Machine Learning**.  
+Tenho grande interesse em atuar na área de **Ciência de Dados**, aplicando análise, manipulação e modelagem de dados para gerar insights estratégicos que apoiem a tomada de decisão.
 
-## 🎯 Áreas de Interesse
-- Ciência de Dados  
-- Machine Learning & Deep Learning  
-- Inteligência Artificial Aplicada  
-- Visualização de Dados  
-- Engenharia de Dados
+---
 
-## 🛠 Tecnologias e Ferramentas
-- Linguagens: Python (pandas, numpy, scikit-learn, PyTorch)  
-- Manipulação e Análise de Dados: pandas, SQL  
-- Machine Learning & Deep Learning: scikit-learn, PyTorch  
-- Visualização: matplotlib, seaborn, Plotly  
-- Versionamento: Git, GitHub  
-- APIs e Deploy: FastAPI, Docker
+### 🤖 Linguagens e Tecnologias
 
-## 📚 Formação Acadêmica
-- Graduação em Engenharia de Computação – Facens  
-- Pós-graduação em Inteligência Artificial Aplicada e Machine Learning – Em andamento
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Jupyter" 
+    title="Jupyter"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Pandas" 
+    title="Pandas"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://pandas.pydata.org/static/img/pandas_mark.svg" 
+/>
+<img 
+    align="left" 
+    alt="NumPy" 
+    title="NumPy"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://numpy.org/images/logo.svg" 
+/>
+<img 
+    align="left" 
+    alt="Scikit-learn" 
+    title="Scikit-learn"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" 
+/>
+<img 
+    align="left" 
+    alt="PyTorch" 
+    title="PyTorch"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://pytorch.org/assets/images/pytorch-logo.png" 
+/>
+<img 
+    align="left" 
+    alt="FastAPI" 
+    title="FastAPI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" 
+/>
 
-## 🤝 Vamos nos conectar!
-- [LinkedIn](www.linkedin.com/in/davi-dias-b204a921a)  
-- [E-mail](mailto:davi.dias271@gmail.com)  
-
-<!--
-**DiasDavi/DiasDavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<br/>
